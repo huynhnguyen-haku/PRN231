@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|c:\\users\\huynh nguyen\\desktop\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|solutionrelative:net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|c:\\users\\huynh nguyen\\desktop\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|solutionrelative:net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|c:\\users\\huynh nguyen\\desktop\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\models\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|solutionrelative:net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\models\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|c:\\users\\huynh nguyen\\desktop\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\payload\\request\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0704616-2F45-4380-AB7A-21F42BAEBF07}|Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT.csproj|solutionrelative:net1711_231_asm2_se160414_huynhhoangkhoinguyen_jwt\\payload\\request\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Utils\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Utils\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Utils\\JwtUtils.cs",
+              "RelativeToolTip": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Utils\\JwtUtils.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvygAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:09:12.273Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:08:07.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Models\\DataSource.cs",
+              "RelativeDocumentMoniker": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Models\\DataSource.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Models\\DataSource.cs",
+              "RelativeToolTip": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Models\\DataSource.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwGoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:07:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Payload\\Request\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Payload\\Request\\AuthenticationRequest.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\Desktop\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Payload\\Request\\AuthenticationRequest.cs",
+              "RelativeToolTip": "Net1711_231_ASM2_SE160414_HuynhHoangKhoiNguyen_JWT\\Payload\\Request\\AuthenticationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:52:45.046Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+obj\Release\net6.0\Protos/Category.cs \
+obj\Release\net6.0\Protos/CategoryGrpc.cs: C:/Users/Huynh Nguyen/.nuget/packages/grpc.tools/2.49.0/build/native/include/google/protobuf/empty.proto\
+ Protos/category.proto

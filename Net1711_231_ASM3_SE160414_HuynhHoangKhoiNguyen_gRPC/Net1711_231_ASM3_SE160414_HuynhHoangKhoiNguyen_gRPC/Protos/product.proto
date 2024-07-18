@@ -1,0 +1,62 @@
+syntax = "proto3";
+
+option csharp_namespace = "Net1711_231_ASM3_SE160414_HuynhHoangKhoiNguyen_gRPC.Protos";
+
+import "google/protobuf/empty.proto";
+
+service ProductServiceGRPC{
+	rpc GetAllProducts(google.protobuf.Empty) returns (ProductList) {};
+	rpc GetProductById(ProductRequest) returns (ProductReply) {};
+	rpc AddProduct(ProductAddRequest) returns (ProductReply) {};
+	rpc UpdateProduct(ProductUpdateRequest) returns (ProductReply) {};
+	rpc DeleteProduct(ProductRequest) returns (google.protobuf.Empty) {};
+}
+
+message ProductAddRequest{
+	int32 AccountId = 1;
+	int32 CategoryId = 2;
+	string ProductName = 3;
+	int32 Price = 4;
+	int32 QuantityInStock = 5;
+	string Description = 6;
+	string Status = 7;
+	string CreatedDate = 8;
+	string UpdatedDate = 9;
+	int32 TotalRating = 10;
+}
+
+message ProductUpdateRequest{
+	int32 ProductId =1;
+	int32 AccountId = 2;
+	int32 CategoryId = 3;
+	string ProductName = 4;
+	int32 Price = 5;
+	int32 QuantityInStock = 6;
+	string Description = 7;
+	string Status = 8;
+	string CreatedDate = 9;
+	string UpdatedDate = 10;
+	int32 TotalRating = 11;
+}
+
+message ProductRequest{
+	int32 ProductId = 1;
+}
+
+message ProductReply{
+	int32 ProductId =1;
+	int32 AccountId = 2;
+	int32 CategoryId = 3;
+	string ProductName = 4;
+	int32 Price = 5;
+	int32 QuantityInStock = 6;
+	string Description = 7;
+	string Status = 8;
+	string CreatedDate = 9;
+	string UpdatedDate = 10;
+	int32 TotalRating = 11;
+}
+
+message ProductList{
+	repeated ProductReply products = 1;
+}

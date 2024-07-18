@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Add Product";
+}
+
+@model gRPC_Client.Protos.ProductAddRequest
+
+<div class="form-group row">
+    <div class="col-md-6">
+        <label for="productName">Product Name:</label>
+        @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control", id = "productName" } })
+    </div>
+    <div class="col-md-6">
+        <label for="accountId">Account ID:</label>
+        @Html.EditorFor(model => model.AccountId, new { htmlAttributes = new { @class = "form-control", id = "accountId" } })
+    </div>
+</div>
+
+<div class="form-group row">
+    <div class="col-md-6">
+        <label for="categoryId">Category ID:</label>
+        @Html.EditorFor(model => model.CategoryId, new { htmlAttributes = new { @class = "form-control", id = "categoryId" } })
+    </div>
+    <div class="col-md-6">
+        <label for="price">Price:</label>
+        @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control", id = "price" } })
+    </div>
+</div>
+
+<div class="form-group row">
+    <div class="col-md-6">
+        <label for="quantityInStock">Quantity In Stock:</label>
+        @Html.EditorFor(model => model.QuantityInStock, new { htmlAttributes = new { @class = "form-control", id = "quantityInStock" } })
+    </div>
+    <div class="col-md-6">
+        <label for="description">Description:</label>
+        @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", id = "description" } })
+    </div>
+</div>
+
+<div class="form-group row">
+    <div class="col-md-6">
+        <label for="status">Status:</label>
+        @Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control", id = "status" } })
+    </div>
+    <div class="col-md-6">
+        <label for="createdDate">Created Date:</label>
+        @Html.EditorFor(model => model.CreatedDate, new { htmlAttributes = new { @class = "form-control", id = "createdDate" } })
+    </div>
+</div>
+
+<div class="form-group row">
+    <div class="col-md-6">
+        <label for="updatedDate">Updated Date:</label>
+        @Html.EditorFor(model => model.UpdatedDate, new { htmlAttributes = new { @class = "form-control", id = "updatedDate" } })
+    </div>
+    <div class="col-md-6">
+        <label for="totalRating">Total Rating:</label>
+        @Html.EditorFor(model => model.TotalRating, new { htmlAttributes = new { @class = "form-control", id = "totalRating" } })
+    </div>
+</div>
+
+<div class="form-group row">
+    <div class="col-md-12">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+    </div>
+</div>

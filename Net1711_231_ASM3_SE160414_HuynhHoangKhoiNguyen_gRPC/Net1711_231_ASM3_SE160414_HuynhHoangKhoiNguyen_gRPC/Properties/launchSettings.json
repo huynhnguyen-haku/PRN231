@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Net1711_231_ASM3_SE160414_HuynhHoangKhoiNguyen_gRPC": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5155;https://localhost:7227",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

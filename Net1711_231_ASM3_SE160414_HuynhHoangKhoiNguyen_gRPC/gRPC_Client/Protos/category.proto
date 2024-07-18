@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC_Client.Protos";
+
+import "google/protobuf/empty.proto";
+
+service CategoryServiceGRPC{
+	rpc GetAllCategories(google.protobuf.Empty) returns (CategoryList) {};
+	rpc GetCategoryById(CategoryRequest) returns (CategoryReply) {};
+	rpc AddCategory(CategoryAddRequest) returns (CategoryReply) {};
+	rpc UpdateCategory(CategoryUpdateRequest) returns (CategoryReply) {};
+	rpc DeleteCategory(CategoryRequest) returns (google.protobuf.Empty) {};
+}
+
+message CategoryAddRequest{
+	string CategoryName = 1;
+}
+
+message CategoryUpdateRequest{
+	int32 CategoryId = 1;
+	string CategoryName = 2;
+}
+
+message CategoryRequest{
+	int32 CategoryId = 1;
+}
+
+message CategoryReply{
+	int32 CategoryId = 1;
+	string CategoryName = 2;
+}
+
+message CategoryList{
+	repeated CategoryReply categories = 1;
+}
